@@ -1,0 +1,9 @@
+
+Flask
+flask-cors
+google-generativeai
+python-dotenv
+requests
+spacy
+PyPDF2
+python-docx
